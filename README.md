@@ -3,7 +3,7 @@ This is a real-time face detection project. It works with Haar CasCade algorithm
 Implementing this into code is surprisingly easy using OpenCV’s CascadeClassifier function.
 This project has two files, a main python script for code and another named "haarcascade_frontalface_default.xml" that is used for training the algorithm.
 
-## Think Like A Data Scientist! :
+## Think Like A Data Scientist! 
 
 ###  What Is Haar CasCade Algorithm?
 A Haar classifier, or a Haar cascade classifier, is a machine learning object detection program that identifies objects in an image and video.
