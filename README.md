@@ -22,6 +22,7 @@ The algorithm can be explained in four stages:
 2-Creating Integral Images
 
 
+
 ![2](https://user-images.githubusercontent.com/45903554/131811020-8c1f00d2-b926-4261-b207-06454daa2462.png)
 
 
@@ -32,12 +33,16 @@ The algorithm can be explained in four stages:
 3-Using Adaboost
 
 
+
+
 ![3](https://user-images.githubusercontent.com/45903554/131811051-336fa314-c3d1-4bdc-a4a1-f3ddf6e4c28a.jpeg)
 
 
 
 
 4-Implementing Cascading Classifiers
+
+
 
 
 ![4](https://user-images.githubusercontent.com/45903554/131811076-0f2f321e-7c12-4ac9-8f26-7cef6d09610e.png)
