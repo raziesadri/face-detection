@@ -51,8 +51,7 @@ Representation of a boosting algorithm
 
 
 
-![4](https://user-images.githubusercontent.com/45903554/131811076-0f2f321e-7c12-4ac9-8f26-7cef6d09610e.png)
-A flowchart of cascade classifiers
+![4](https://user-images.githubusercontent.com/45903554/131811076-0f2f321e-7c12-4ac9-8f26-7cef6d09610e.png)A flowchart of cascade classifiers
 
 
 
