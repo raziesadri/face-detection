@@ -35,6 +35,9 @@ The algorithm can be explained in four stages:
 
 
 
+
+
+
 ![3](https://user-images.githubusercontent.com/45903554/131811051-336fa314-c3d1-4bdc-a4a1-f3ddf6e4c28a.jpeg)
 
 
