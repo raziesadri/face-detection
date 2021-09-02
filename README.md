@@ -10,10 +10,11 @@ A Haar classifier, or a Haar cascade classifier, is a machine learning object de
 The algorithm can be explained in four stages:
 
 #### 1-Calculating Haar Features
+Types of Haar features:
 
 
 ![1_yl-BqUzycbyfhPAzwWOddQ](https://user-images.githubusercontent.com/45903554/131810988-ac23a0a9-34e3-40ba-94d7-d09f6ad48826.png)
-Types of Haar features.
+
 
 
 
@@ -21,11 +22,12 @@ Types of Haar features.
 
 
 #### 2-Creating Integral Images
+Illustration for how an integral image works:
 
 
 
 ![2](https://user-images.githubusercontent.com/45903554/131811020-8c1f00d2-b926-4261-b207-06454daa2462.png)
-Illustration for how an integral image works
+
 
 
 
@@ -33,6 +35,7 @@ Illustration for how an integral image works
 
 
 #### 3-Using Adaboost
+Representation of a boosting algorithm:
 
 
 
@@ -41,17 +44,18 @@ Illustration for how an integral image works
 
 
 ![3](https://user-images.githubusercontent.com/45903554/131811051-336fa314-c3d1-4bdc-a4a1-f3ddf6e4c28a.jpeg)
-Representation of a boosting algorithm
+
 
 
 
 
 #### 4-Implementing Cascading Classifiers
+A flowchart of cascade classifiers:
 
 
 
 
-![4](https://user-images.githubusercontent.com/45903554/131811076-0f2f321e-7c12-4ac9-8f26-7cef6d09610e.png)A flowchart of cascade classifiers
+![4](https://user-images.githubusercontent.com/45903554/131811076-0f2f321e-7c12-4ac9-8f26-7cef6d09610e.png)
 
 
 
